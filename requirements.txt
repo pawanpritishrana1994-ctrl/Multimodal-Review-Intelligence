@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+datasets
+scikit-learn
+pandas
+pillow
+tqdm
+pyyaml
+requests
+python-dotenv
+fastapi
+uvicorn
+streamlit
