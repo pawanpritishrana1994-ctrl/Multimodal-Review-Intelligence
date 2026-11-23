@@ -1,7 +1,7 @@
 .env
 venv/
-data/
-models/
+/data/
+/models/
 __pycache__/
 *.pkl
 *.pt
